@@ -1,0 +1,10 @@
+# Core dependencies
+streamlit>=1.24.0,<2.0.0  # Main dashboard framework
+pandas>=2.0.0,<3.0.0      # Data manipulation
+
+# Visualization libraries
+plotly>=5.14.0            # Interactive charts
+matplotlib>=3.7.0         # Static visualizations (used by overview)
+
+# Optional dependencies
+numpy>=1.24.0             # Numerical operations
